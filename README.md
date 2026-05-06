@@ -29,4 +29,4 @@ Bot wymaga zainstalowanego **Python 3.8+**.
 
 1. **Sklonuj repozytorium lub pobierz pliki:**
    ```bash
-   git clone <twoj-link-do-repo>
+   git clone https://github.com/54D4-projects/discord-bot/
